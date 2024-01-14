@@ -1,6 +1,6 @@
 # Professional Portfolio 
-img here
 
+![_E__BootCamp_Class_assignment2_index html](https://github.com/imooon/utor-assignment2/assets/110244046/57c5f2b4-2c8e-49a0-bcb8-53e5a1e1e39b)
 
 ## Description
 
@@ -22,7 +22,11 @@ img here
 
 ## URL of the GitHub repository
 
+https://github.com/imooon/utor-assignment2
+
 ## URL of the deployed application
+
+https://imooon.github.io/utor-assignment2/
 
 ## License 
 
